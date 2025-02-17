@@ -2,21 +2,20 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Benedict Newman
     - name: Date of Birth
-      value: 14th March 1879
+      value: 
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: King's College London
+      year: 2024-present
       description:
-        - Description 1.
-        - Description 2.
+        - Post graduate researcher in the department of informatics and part of the Centre for Doctoral Training in Digital Twins for Healthcare
         - title: Description 3.
           contents:
             - Sub-description 1.
