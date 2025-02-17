@@ -12,53 +12,54 @@
   type: time_table
   contents:
     - title: PhD
-      institution: King's College London
+      institution: King's College London, UK
       year: 2024-present
-      description:
-        - Post graduate researcher in the department of informatics and part of the Centre for Doctoral Training in Digital Twins for Healthcare
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+      description: Post graduate researcher in the department of informatics and part of the Centre for Doctoral Training in Digital Twins for Healthcare
+    - title: MSc Clinical Sciences (Clinical Engineering)
+      institution: King's College London, UK
+      year: 2017
+      contents:
+            - Distinction
+    - title: BEng (Hons) Engineering 
+      institution: The Open University
+      year: 2013
+      description: Specialist modules included: FEA Simulation, Structural integrity analysis and Sustainable design 
+      Contents: First
+        
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Medical Equipment Standardisation & Project Manager 
+      institution: Guy’s & St Thomas’ NHS Foundation Trust
+      year: Feb 2021 to Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Act as a senior leader within the Clinical Engineering department for the Trust’s medical technology adoption and investment workstreams, overseeing ~150 annual projects portfolio with total funding greater than £15m
+        - Deputise for the Medical Equipment Portfolio Manager. Oversee, support, and develop four junior staff and further project leads. Provide academic supervision and competency assessment for NHS in-training Scientists
+        - Vetting of investment cases, requires - data gathering and analysis, engagement with clinical (doctors, scientist, & nurses), technical (IT & Estates) and operations (directors & general managers)
+        - Produce and present papers and various reports, act as the subject matter expert or secretary for many boards
+        - Development of processes and operating models. Updating ISO9001 quality management system.
+        
+        - title: Specialist Ultrasound Engineer
+          institution: Guy’s & St Thomas’ NHS Foundation Trust
+          year: Jan 2018 to Feb 2021
+          description:
+            - Scientific and technical lead for Trust’s ultrasound imaging modality (circa 400 scanners), resolving including imaging artefacts, data & networking issues, electro-mechanical faults
+            - Engineering service development and improvement, including Imaging Quality Assurance techniques practice. 
+            - Led the £10m Trust-wide replacement of Trust’s patient monitoring system, leading a cross organisational team.
+            - Mapped multi-service support workflows to designed Trust’s first support model for integrated medical devices
+
+    - title: Clinical Scientist Trainee
+      institution: Health Educaiton England, Cwm Taf University Health Board & Guy’s & St Thomas’ NHS Foundation Trust
+      year: Sept 2014 to December 2017
       description:
-        - Description 1.
-        - Description 2.
+      - Completed the highly competitive 3-year NHS scientist training practitioner (STP) scheme, combing NHS operational training alongside and MSc in Clinical Sciences (Clinical Engineering) at King's College London
+      - Dissertation focused on modelled the sustainability of medical technologies using discrete event methods, utilising clinical procedural data and equipment data to model carbon impact for a selection of cancer pathways.
+      - Data analysis, (Excel / MATLAB), medical device regulatory environment, project management (two cancer centres), risk management (failure modes & effects analysis incident investigation), device evaluation 
+      - Rotational and part specialist training components of same STP scheme prior to transferring to London.
+      - Rotation elements included Design and Development (prototype development using SolidWorks), Rehabilitation Engineering (specialist seating and postural management, gait analysis and assistive technology) and Clinical Measurement (ophthalmology, audiology, anaesthetics, cardio-pulmonary and cardiology).
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+     
 
 - title: Open Source Projects
   type: time_table
@@ -67,13 +68,12 @@
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
+- title: Presentaitons
   type: time_table
-  contents:
+  contents: 
     - year: 1921
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
+        - 
     - year: 2029
       items:
         - Max Planck Medal
