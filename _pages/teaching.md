@@ -2,11 +2,17 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: A list of courses and modules I have aurthored or lecturered
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+As part of the Masters of Science in Clinical Sciences (Clinical Engineering), Faculty of Life Science & Medicine, Department of Medical Engineering & Physics, King’s College London.
+-	Health Technology System Leadership: Business planning and investment (2023, 2024) | Author & Lecturer
+-	Health Technology System Leadership: Procurement & Technology Assessment (2020, 2021, 2022, 2023, 2024, 2025) | Author & Lecturer
+-	Health Technology System Leadership: Equipment Replacement & Standardisation programmes (2020, 2021, 2022, 2023, 2024, 2025) |  Author & Lecturer
+-	Health Technology System Leadership: Procurement & Specification (2019) | Lecturer
 
-Organize your courses by years, topics, or universities, however you like!
+As part of the Masters of Science in Clinical Sciences (Medical Physics), Faculty of Life Science & Medicine, Department of Medical Engineering & Physics, King’s College London.
+-	Non-Ionising Radiation Safety: Ultrasound Quality Assurance (2018, 2019, 2020) | Lecturer
+-	Non-Ionising Radiation Safety: Ultrasound Imaging Artefacts (2019) | Lecturer
