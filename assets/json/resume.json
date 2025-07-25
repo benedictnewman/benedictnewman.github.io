@@ -2,23 +2,19 @@
   "basics": {
     "name": "Benedict Newman",
     "label": "PhD Candidate at King's College London",
-    "image": 
     "email": "benedict.j.newman@kcl.ac.uk",
-    "phone":
-    "url":
-    "summary": 
     "location": {
-      "address": "King's College London, Strand Campus, Bush House London, U.K.",
+      "address": "King's College London, Strand Campus, Bush House London, UK",
       "postalCode": "WC2R 2LS",
       "city": "London",
-      "countryCode": "U.K",
-      "region": 
+      "countryCode": "UK",
+      "region": ""
     },
     "profiles": [
       {
-        "network":
-        "username": 
-        "url": 
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
@@ -27,22 +23,22 @@
       "name": "Guy’s & St Thomas’ NHS Foundation Trust",
       "position": "Medical Equipment Standardisation & Project Manager",
       "url": "https://www.guysandstthomas.nhs.uk/",
-      "startDate": "2021-02-01 ",
+      "startDate": "2021-02-01",
       "endDate": "Present",
-      "summary": "Leaderhip and project management",
+      "summary": "Leadership and project management",
       "highlights": ["Project Management"]
     }
   ],
   "volunteer": [
     {
-      "organization": 
-      "location": 
-      "position": 
-      "url": 
-      "startDate": 
-      "endDate": 
-      "summary": 
-      "highlights": 
+      "organization": "",
+      "location": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
     }
   ],
   "education": [
@@ -54,7 +50,7 @@
       "studyType": "PhD",
       "startDate": "October 2024",
       "endDate": "Present",
-      "score":
+      "score": "",
       "courses": ["Digital Twins for Healthcare"]
     },
     {
@@ -65,17 +61,17 @@
       "studyType": "MSc Clinical Sciences (Clinical Engineering)",
       "startDate": "Sept 2014",
       "endDate": "June 2017",
-      "score":
+      "score": "",
       "courses": ["Medical Device Risk Management and Governance"]
-    },
+    }
   ],
   "awards": [
     {
-      "title": 
-      "date": 
-      "awarder": 
-      "url": 
-      "summary": 
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "url": "",
+      "summary": ""
     }
   ],
   "certificates": [
