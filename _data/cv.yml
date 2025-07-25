@@ -4,7 +4,7 @@
     - name: Full Name
       value: Benedict Newman
     - name: Date of Birth
-      value: 
+      value:
     - name: Languages
       value: English
 
@@ -13,67 +13,57 @@
   contents:
     - title: PhD
       institution: King's College London, UK
-      year: 2024-present
-      description: Post graduate researcher in the department of informatics and part of the Centre for Doctoral Training in Digital Twins for Healthcare
+      year: 2024–present
+      description: Postgraduate researcher in the Department of Informatics and part of the Centre for Doctoral Training in Digital Twins for Healthcare
     - title: MSc Clinical Sciences (Clinical Engineering)
       institution: King's College London, UK
       year: 2017
-      contents:
-            - Distinction
-    - title: BEng (Hons) Engineering 
+      description: Awarded Distinction
+    - title: BEng (Hons) Engineering
       institution: The Open University
       year: 2013
-      description: Specialist modules included: FEA Simulation, Structural integrity analysis and Sustainable design 
-      Contents: First
-        
+      description: Specialist modules included FEA Simulation, Structural Integrity Analysis, and Sustainable Design; graduated with First Class Honours
 
 - title: Experience
   type: time_table
   contents:
-    - title: Medical Equipment Standardisation & Project Manager 
+    - title: Medical Equipment Standardisation & Project Manager
       institution: Guy’s & St Thomas’ NHS Foundation Trust
-      year: Feb 2021 to Present
+      year: Feb 2021 – Present
       description:
-        - Act as a senior leader within the Clinical Engineering department for the Trust’s medical technology adoption and investment workstreams, overseeing ~150 annual projects portfolio with total funding greater than £15m
-        - Deputise for the Medical Equipment Portfolio Manager. Oversee, support, and develop four junior staff and further project leads. Provide academic supervision and competency assessment for NHS in-training Scientists
-        - Vetting of investment cases, requires - data gathering and analysis, engagement with clinical (doctors, scientist, & nurses), technical (IT & Estates) and operations (directors & general managers)
-        - Produce and present papers and various reports, act as the subject matter expert or secretary for many boards
-        - Development of processes and operating models. Updating ISO9001 quality management system.
-        
-        - title: Specialist Ultrasound Engineer
-          institution: Guy’s & St Thomas’ NHS Foundation Trust
-          year: Jan 2018 to Feb 2021
-          description:
-            - Scientific and technical lead for Trust’s ultrasound imaging modality (circa 400 scanners), resolving including imaging artefacts, data & networking issues, electro-mechanical faults
-            - Engineering service development and improvement, including Imaging Quality Assurance techniques practice. 
-            - Led the £10m Trust-wide replacement of Trust’s patient monitoring system, leading a cross organisational team.
-            - Mapped multi-service support workflows to designed Trust’s first support model for integrated medical devices
-
+        - Senior leader within the Clinical Engineering department for the Trust’s medical technology adoption and investment workstreams, overseeing ~150 annual projects with total funding >£15m
+        - Deputise for the Medical Equipment Portfolio Manager; oversee, support, and develop four junior staff and additional project leads; provide academic supervision and competency assessment for NHS in-training Scientists
+        - Vetting of investment cases; data gathering and analysis; engagement with clinical (doctors, scientists, & nurses), technical (IT & Estates) and operational (directors & general managers) stakeholders
+        - Produce and present papers and reports; act as subject matter expert or secretary for various boards
+        - Develop processes and operating models; update ISO9001 quality management system
+    - title: Specialist Ultrasound Engineer
+      institution: Guy’s & St Thomas’ NHS Foundation Trust
+      year: Jan 2018 – Feb 2021
+      description:
+        - Scientific and technical lead for Trust’s ultrasound imaging modality (c. 400 scanners), resolving imaging artefacts, data/networking issues, and electro-mechanical faults
+        - Developed and improved engineering service, including imaging quality assurance techniques
+        - Led £10m Trust-wide replacement of patient monitoring system; managed a cross-organisational team
+        - Mapped multi-service support workflows and designed Trust’s first support model for integrated medical devices
     - title: Clinical Scientist Trainee
-      institution: Health Educaiton England, Cwm Taf University Health Board & Guy’s & St Thomas’ NHS Foundation Trust
-      year: Sept 2014 to December 2017
+      institution: Health Education England, Cwm Taf University Health Board & Guy’s & St Thomas’ NHS Foundation Trust
+      year: Sept 2014 – Dec 2017
       description:
-      - Completed the highly competitive 3-year NHS scientist training practitioner (STP) scheme, combing NHS operational training alongside and MSc in Clinical Sciences (Clinical Engineering) at King's College London
-      - Dissertation focused on modelled the sustainability of medical technologies using discrete event methods, utilising clinical procedural data and equipment data to model carbon impact for a selection of cancer pathways.
-      - Data analysis, (Excel / MATLAB), medical device regulatory environment, project management (two cancer centres), risk management (failure modes & effects analysis incident investigation), device evaluation 
-      - Rotational and part specialist training components of same STP scheme prior to transferring to London.
-      - Rotation elements included Design and Development (prototype development using SolidWorks), Rehabilitation Engineering (specialist seating and postural management, gait analysis and assistive technology) and Clinical Measurement (ophthalmology, audiology, anaesthetics, cardio-pulmonary and cardiology).
-
-     
+        - Completed the competitive 3-year NHS Scientist Training Programme (STP), combining NHS operational training with MSc in Clinical Sciences (Clinical Engineering) at King's College London
+        - Dissertation modelled the sustainability of medical technologies using discrete event simulation, incorporating clinical procedural and equipment data to model carbon impact for selected cancer pathways
+        - Skills: data analysis (Excel/MATLAB), medical device regulatory environment, project management (two cancer centres), risk management (FMEA, incident investigation), device evaluation
+        - Rotational and specialist training components included design and development (prototype development with SolidWorks), rehabilitation engineering (specialist seating, gait analysis, assistive technology), and clinical measurement (ophthalmology, audiology, anaesthetics, cardiopulmonary, cardiology)
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: al-folio
+      url: https://github.com/alshedivat/al-folio
+      year: 2015–present
+      description: A beautiful, simple, clean and responsive Jekyll theme for academics
 
-- title: Presentaitons
+- title: Presentations
   type: time_table
-  contents: 
-    - year: 1921
-      items:
-        - 
+  contents:
     - year: 2029
       items:
         - Max Planck Medal
@@ -81,16 +71,14 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Digital Twins for Healthcare
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Applications in medical technology evaluation, service design, and patient safety
+    - title: Medical Device Innovation
       items:
-        - Description 1.
-        - Description 2.
+        - Regulatory science, sustainability, and implementation in public health settings
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Running, cycling, and photography
